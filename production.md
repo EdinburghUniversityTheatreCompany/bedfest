@@ -23,10 +23,21 @@ nav_order: 2
 
 ### Not open yet
 Workshops Applications
+
 Socials Applications
+
 Artistic Events Applications
+
 Auditions Infomation Form
+
 Marketing Form
+
 Tech Form
+
 Props & Set Form
+
 Costume Form
+
+Archive Form
+
+Feedback Form

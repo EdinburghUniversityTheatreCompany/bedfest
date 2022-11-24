@@ -2,7 +2,6 @@ title: "Bedfest 2023"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "bedlam"
 search_enabled: true
-logo: "https://i.imgur.com/1UCqCWs.png"
 aux_links:
   "Bedfest 2023 Page": 
     - "https://www.bedlamtheatre.co.uk/seasons/bedfest2023"

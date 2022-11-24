@@ -12,12 +12,14 @@ nav_order: 2
 
 [Add this to your google calendar](https://calendar.google.com/calendar/u/0?cid=MWE1YjY0MzM1YWM4ZmNlYWY0OTc4N2EwNjM4NDdjZTRmYTk2Y2E2ZjYyZTUxYWEzN2E4M2M3OWZjMDMzMWFlNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t){: .btn }
 
+---
+
 ## Forms
 
-## Open
+### Open
 [Show Applications](https://go.eutc.org.uk/bedfest){: .btn }
 
-## Not open yet
+### Not open yet
 Workshops Applications
 Socials Applications
 Artistic Events Applications

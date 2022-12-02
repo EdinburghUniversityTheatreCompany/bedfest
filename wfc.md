@@ -7,13 +7,15 @@ nav_order: 2
 # Waiting for Champagne Audition Pack
 ## Introduction
 ### Quick Infomation
-|||
+
+|Category|Infomation|
 |---|---|
 Auditions Times | **Sat 3rd Dec 2-6pm Bedlam Theatre**
 Self Tape Deadline | **Sun 4th Dec 6pm**
 Performance Date | 23rd-28th January 2023
-Category | Queer Theatre
+Genre | Queer Theatre
 Contact | boultererin@gmail.com
+
 ### Synopsis
 Former friends and roommates, Annie and Frances haven’t spoken to each other in more than a year. But sparks fly when Frances shows up at Annie’s door late one April night, drunk and demanding to talk. Buried truths are dragged back up to the surface as the women navigate family expectations, sexuality, and their own ambitions. Will Annie and Frances be able to resolve all of the things left unsaid? Or will the weight of the past shatter any possibility of a future they might have?
 

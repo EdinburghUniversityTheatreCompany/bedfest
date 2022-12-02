@@ -28,6 +28,7 @@ Annie
 While this play was written to celebrate queer identities,(especially for female-identifying members of the community) this script does deal with themes of homophobia. No character experiences homophobia onstage, however themes such as internalized homophobia, struggles with parental acceptance of homosexuality, and societal pressures to being homosexual are all touched on.
 ## Monologue Audition Pieces
 > Do not feel like you have to memorise the piece, there will be paper copies available on the day for you to read off from.
+
 ### Monologue 1
 **FUTURE ANNIE:** In our last year of school together, we lived in a two bedroom basement suite. It was always freezing, so we bought a space heater and huddled around it during the never-ending winter nights. One night we were talking, about something I can’t remember now, and she turned to me with this look in her eyes that was both thrilling and terrifying. I leaned in for a brief moment, wanting to know what she would taste like. And before anything happened, I left. She just sat there. So many things went unsaid, and from then on there was a distance between us. It hurt everyday, because I knew it was my fault, but I had to do it, to keep us both at bay.
 

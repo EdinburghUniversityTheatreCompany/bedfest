@@ -9,8 +9,8 @@ nav_order: 2
 
 |Category|Infomation|
 |---|---|
-Auditions Times | **Sat 3rd Dec 2-6pm Bedlam Theatre**
-Self Tape Deadline | **Sun 4th Dec 6pm**
+Auditions Times | Sat 3rd Dec 2-6pm @Bedlam Theatre
+Self Tape Deadline | Sun 4th Dec 6pm
 Performance Date | 23rd-28th January 2023
 Genre | Queer Theatre
 Commitment | 2 rehearsals a week, tech run, & performance.

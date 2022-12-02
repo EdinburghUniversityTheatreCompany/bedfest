@@ -1,3 +1,9 @@
+---
+title: Auditions: Waiting for Champagne
+permalink: /index.html
+nav_order: 2
+---
+
 # Waiting for Champagne Audition Pack
 ## Introduction
 ### Quick Infomation

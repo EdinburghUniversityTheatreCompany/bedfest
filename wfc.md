@@ -1,6 +1,5 @@
 ---
 title: Auditions: Waiting for Champagne
-permalink: /index.html
 nav_order: 2
 ---
 
@@ -14,6 +13,7 @@ Auditions Times | **Sat 3rd Dec 2-6pm Bedlam Theatre**
 Self Tape Deadline | **Sun 4th Dec 6pm**
 Performance Date | 23rd-28th January 2023
 Genre | Queer Theatre
+Commitment | 2 rehearsals a week, tech run, & performance.
 Contact | boultererin@gmail.com
 
 ### Synopsis

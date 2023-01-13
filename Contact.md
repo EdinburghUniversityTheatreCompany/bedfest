@@ -17,4 +17,4 @@ Props Manager | [Tala Davidson](https://www.facebook.com/profile.php?id=10006849
 Set Manager | [Isabel Read](https://www.facebook.com/isabel.read.9) | Manages the set pieces
 Tech Manager | [Lois Zon](https://www.facebook.com/lois.zon.1) | Manages the tech
 Marketing Contact | [Noor Kabbani](https://www.facebook.com/profile.php?id=100024593472038) | Contact for infomation on how marketing works.
- 
+Welfare Contact | [Em Leites McPherson](https://www.facebook.com/profile.php?id=100072798664668) | Point of infomation for any welfare concerns.

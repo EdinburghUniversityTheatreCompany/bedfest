@@ -1,6 +1,6 @@
 ---
 title: Production Infomation
-nav_order: 199
+nav_order: 1
 ---
 
 # Bedfest 2023 Production Infomation
@@ -19,25 +19,25 @@ nav_order: 199
 ## Forms
 
 ### Open
-[Show Applications](https://go.eutc.org.uk/bedfest){: .btn }
 
-### Not open yet
-Workshops Applications
+[Marketing Form](https://forms.gle/AjhKkspuEbTzQx287)
 
-Socials Applications
+[Tech Form](https://forms.gle/gwbCvozhb8MoYU779)
 
-Artistic Events Applications
+[Props & Set Form](https://forms.gle/J2Xg7wHwGiwLJHK3A)
 
-Auditions Infomation Form
+[Costume Form](https://forms.gle/R7dDJSPTNknxPS2i9)
 
-Marketing Form
+[Content Warnings](https://forms.gle/Z8hCywmWTcHeTTNT6)
 
-Tech Form
-
-Props & Set Form
-
-Costume Form
+## Not Opened yet
 
 Archive Form
 
 Feedback Form
+
+### Closed
+[Show Applications](https://go.eutc.org.uk/bedfest){: .btn }
+
+
+[Events Applications](https://forms.office.com/e/4mCRxnc4nh)
